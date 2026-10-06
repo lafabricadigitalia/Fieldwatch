@@ -66,6 +66,7 @@ Uninstall wipes what is on the phone. If you added signatures, changed Settings,
 - Not Bluetooth Classic inquiry (HC-05 / HC-06 will not appear)
 - Not cellular
 - Not direction finding
+- ok?
 
 ## Copyright and license
 
